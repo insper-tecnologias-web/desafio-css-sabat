@@ -108,19 +108,19 @@ textarea {
   width:13em;
   margin:1em;
   gap: 1.8em;
+  font-family: 'Permanent Marker';
 }
 
 .card-title{
-  font-family: 'Permanent Marker';
+  color: #2c2c2c;
   font-weight:bold;
   font-size: 1.2rem;
   width: 100%;
 }
 
-p{
-  color:rgb(99, 99, 99) ;
+.card-content {
+  color: #4c4c4c;
   font-size: .8rem;
-  font-family: 'Permanent Marker';
 }
 
 .card-color-1{
